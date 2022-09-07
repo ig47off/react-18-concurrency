@@ -11,7 +11,7 @@
 
 4. to see the difference with and without startTransition in the code, just change the App component import in the index.tsx
 
-	4.1 App-defered - uses concurrency
+	4.1 App-deferred - uses concurrency
 
 	4.2 App - does not uses concurrency
 
