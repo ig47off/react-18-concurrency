@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Checkout this repository
+2. run npm install
+3. run npm start
+4. to see the difference with and without startTransition in the code, just changed the App component import in the index.tsx
+    4.1 App-defered - uses concurrency
+    4.2 App - does not uses concurrency
 
 ## Available Scripts
 
